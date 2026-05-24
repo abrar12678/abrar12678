@@ -54,13 +54,13 @@ Interested in improving skills, building new projects and working with the openâ
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skiilicons.dev/icons?i=js" height="60" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
