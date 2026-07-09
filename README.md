@@ -46,7 +46,7 @@
 [![My Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/abrar12678)
 
 ### Frontend Frameworks & Libraries:
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui)](https://github.com/abrar12678)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://github.com/abrar12678)
 
 ### Backend & Runtime:
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/abrar12678)
@@ -55,7 +55,7 @@
 [![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/abrar12678)
 
 ### Tools & Platforms:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma)](https://github.com/abrar12678)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify)](https://github.com/abrar12678)
 
 <br/>
 
