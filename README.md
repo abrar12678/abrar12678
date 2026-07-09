@@ -62,8 +62,6 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
 ### GitHub Stats & Top Languages:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar12678&show_icons=true&theme=swift&hide_border=false&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar12678&show_icons=true&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> |
