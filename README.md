@@ -1,6 +1,6 @@
 ### 🎯 প্রোফাইল README
 
-![](https://raw.githubusercontent.com/abrar12678/abrar12678/main/banner.png)
+![](banner.png)
 
 ---
 
