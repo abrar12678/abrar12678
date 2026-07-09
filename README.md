@@ -63,11 +63,19 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
 ### GitHub Stats & Top Languages:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar12678&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar12678&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar12678&show_icons=true&theme=swift&hide_border=false&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar12678&show_icons=true&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Streak & Trophies:
-| <a><img align="center" src="https://streak-stats.demolab.com/?user=abrar12678&theme=swift&hide_border=true" /></a> | <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=abrar12678&theme=swift&no-frame=true&no-bg=true&margin-w=4&column=3" /></a> |
+| <a><img align="center" src="https://streak-stats.demolab.com/?user=abrar12678&theme=swift&hide_border=false&border_radius=5" /></a> | <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=abrar12678&theme=swift&no-frame=true&no-bg=true&margin-w=4&column=3" /></a> |
+| ------------- | ------------- |
+
+### Contribution Graph:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrar12678/abrar12678/gh-pages/github-contribution-graph-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrar12678/abrar12678/gh-pages/github-contribution-graph-snake.svg">
+  <img alt="github contribution graph" src="https://raw.githubusercontent.com/abrar12678/abrar12678/gh-pages/github-contribution-graph-snake.svg">
+</picture>
 | ------------- | ------------- |
 
 <br/>
