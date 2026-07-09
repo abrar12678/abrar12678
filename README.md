@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md Abrar Hasan</h1></summary>
     <!--- typing animation --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -22,7 +22,7 @@
 - 🖥️ I'm currently working with **React.js, Next.js, TypeScript, and Tailwind CSS** for frontend development.
 - ⚙️ Using **Node.js, Express.js, and MongoDB** for the backend.
 - 🛠️ I'm currently learning **Advanced TypeScript, System Design, and Cloud Deployment**.
-- 💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express, MongoDB)**.
+- 💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express.js, MongoDB)**.
 - 📫 Feel free to reach me at **[LinkedIn](https://www.linkedin.com/in/ab-webdev)**
 
 <br/>
