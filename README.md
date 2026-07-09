@@ -17,14 +17,18 @@
 <!--- about me --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> ABOUT ME:</b>
 
-- 👋 Hi, I'm **[@abrar12678](https://github.com/abrar12678)**
-- 🏠 Based in **Khulna, Bangladesh**
-- 🖥️ I'm currently working with **React.js, Next.js, TypeScript, and Tailwind CSS** for frontend development.
-- ⚙️ Using **Node.js, Express.js, and MongoDB** for the backend.
-- 🛠️ I'm currently learning **Advanced TypeScript, System Design, and Cloud Deployment**.
-- 💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express.js, MongoDB)**.
-- 📫 Feel free to reach me at **[LinkedIn](https://www.linkedin.com/in/ab-webdev)**
+I'm **Md Abrar Hasan**, a passionate Full Stack Web Developer from Khulna, Bangladesh. I specialize in building scalable, high-performance web applications using the MERN stack and modern frontend technologies. I love turning ideas into clean, user-friendly interfaces and writing robust backend logic that powers real-world products. Driven by curiosity, I'm always exploring new tools, contributing to open-source, and pushing myself to write better code every day.
 
+<br/>
+
+<!--- current activities --->
+## <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="35"><b> CURRENT ACTIVITIES:</b>
+
+- 🔭 I'm currently exploring **Next.js App Router** and **Server Components**.
+- 💻 I'm working on a **tourism and booking website** project.
+- 🌱 I'm learning and practicing **TypeScript** and **Tailwind CSS** at an advanced level.
+- 🤝 I'm trying to contribute more to **open-source projects**.
+- 🎯 I'm focused on building **production-ready, scalable web applications**.
 <br/>
 
 <!--- socials --->
